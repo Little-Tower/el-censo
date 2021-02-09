@@ -1,0 +1,28 @@
+.cultivos {
+    max-width: 60%;
+    padding-left: 40px;
+}
+
+.photos {
+    margin-top: 115px;
+}
+
+
+.textoFotos {
+    background-color:#27422E;
+}
+
+.partners {
+    max-width: 60%;
+}
+
+.parallaxText{
+    height: 300px;
+}
+
+@media (max-width: 1250px) {
+    .cultivos {
+        max-width: 100%;
+        padding-left: 10px;
+    }    
+}
